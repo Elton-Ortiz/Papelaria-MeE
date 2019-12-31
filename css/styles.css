@@ -35,6 +35,9 @@ a:hover {
     font-size: 2em;
     font-family: 'Indie Flower', cursive;
 }
+#logo {
+    width: 220px;
+}
 h2{
    height: 72px; 
    line-height: 72px;
